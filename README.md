@@ -1,3 +1,7 @@
+# Nashville COVID Violations Dataset Exploration
+
+NSS Group Project | Collaborators: https://github.com/c-everest and https://github.com/anthonygertz
+
 ## Data Question 4: Nashville COVID-19 Violations
 
 In this project, you will explore COVID-19 violations reported to hubNashville, Metro Nashville government's comprehensive customer service system. 
